@@ -1,40 +1,26 @@
-99 Problems Game
-================
+# [Start Bootstrap](http://startbootstrap.com/) - [Landing Page](http://startbootstrap.com/template-overviews/landing-page/)
 
-99 Problems is a open source ([CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)) card game to attempt to solve real world problems in a fun game format similar to [Cards Against Humanity](https://cardsagainsthumanity.com/). Two sets of cards are broken down into 'problem cards' and 'solution cards'. The game is 100% open source and allowed for change and modification in whatever way seen applicable.
+[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
--   The game forces creative thinking and problem solving
--   Have Fun and engaging discussions with all players
--   Discover practical solutions to the worlds problems for sharing and developing further
+## Getting Started
 
-Making the Cards
----------------
+To use this template, choose one of the following options to get started:
+* Download the latest release on Start Bootstrap
+* Fork this repository on GitHub
 
--   Print the latest version of the PDF on 8.5x11 sheets of card stock paper. A heavy weight paper will increase the durability and improve game play and card shuffling. *Optional* print pure red on one side of the paper for back of 'problem' cards.
--   Cut the cards into individual problem and solution cards
+## Bugs and Issues
 
-Play the Game
----------------
+Have a bug or an issue with this template? [Open a new issue](https://github.com/IronSummitMedia/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
 
-In a similar style to cards against humanity and apples to apples. The game has multiple rounds for each player to take a turn going first. But here, the cards played are not anonymous, instead they are explained and provided justification in hopes of fruitful conversation and societal discovery.
+## Creator
 
-To Start, deal the cards ~ 11 white solution cards per person. Create a stack of problem cards, turn the top card over to start the round. The person who did not want to play the game the most, the player on their left plays the first solution card and game continues clockwise from there.
+Start Bootstrap was created by and is maintained by **David Miller**, Managing Parter at [Iron Summit Media Strategies](http://www.ironsummitmedia.com/).
 
-First, each player uses a best guess solution white “solution” card combined with creativity to solve the current red problem card.
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
--   Example 1: if the problem was not having any friends one of the solution cards you might have would be volunteer. The explanation could likely be that volunteering allows you to meet others over a common activity and can bond and possibly create a friendship.
--   Example 2: if the problem is Manatees being injured by boats, one possible solution card might be triangulation. The explanation could be that by using triangulation the manatees can be located (using radio or GPS) and signaled to boaters to avoid those areas.
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
 
-Second, each player takes turns sharing their best solution card combined with their idea on how it can be applied to the solution. The group votes on the best solution to the problem after all players have had a turn. Any discussion or conversation is encouraged to discuss the problems and possible solutions. The ⅗ majority voted winner gets to keep the red card as a point. The Game ends when all the world's problems have been solved.
+## Copyright and License
 
-### Optional Variations
-
--   Try combining previous solutions played by others in the same round, you can obtain bonus points for thinking of a solution that is more practical and uses more solution cards.
-
-<!-- -->
-
--   Playing with different people can change the game completely, as each card needs some element of creativity to solve the problem and each player may use the cards differently.
-
-<!-- -->
-
--   Create your own rules. Inform the 99 Problems community of what you changed and how the game improved
+Copyright 2013-2015 Iron Summit Media Strategies, LLC. Code released under the [Apache 2.0](https://github.com/IronSummitMedia/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
